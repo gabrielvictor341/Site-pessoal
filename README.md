@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
   <br>
 
-<p>Acesse o projeto completo por aqui</p>
+<p>Acesse o projeto completo por aqui:</p>
 <a href="https://gabrielvictor341.github.io/Site-pessoal">Site pessoal</a>
 
 <p align="center">Feito durante o curso da RocketSeat</p>
